@@ -1,0 +1,9 @@
+Building GoldShieldChain
+
+See doc/readme-qt.rst for instructions on building GoldShieldChain QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of GoldShieldChain.
+
+See doc/build-*.txt for instructions on building GoldShieldChaind,
+the intended-for-services, no-graphical-interface, reference
+implementation of GoldShieldChain.

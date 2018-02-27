@@ -1,0 +1,5 @@
+GoldShieldChain-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/GoldShieldChain-qt.desktop usr/share/applications
+debian/GoldShieldChain-qt.protocol usr/share/kde4/services/

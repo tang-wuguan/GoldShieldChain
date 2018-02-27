@@ -1,0 +1,11 @@
+[Protocol]
+exec=GoldShieldChain-qt '%u'
+protocol=GoldShieldChain
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

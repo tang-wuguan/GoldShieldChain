@@ -1,0 +1,2 @@
+debian/bin/GoldShieldChaind usr/bin
+src/GoldShieldChaind usr/lib/GoldShieldChain
